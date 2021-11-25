@@ -43,4 +43,4 @@ async def quote(ctx):
 
 
 
-bot.run("OTEzNTQ5NTI3NjgyNzg1MzUw.YaAHTA.XxGgCN1HYMNgfB9G7_vPWivFobE")
+bot.run("")
