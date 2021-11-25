@@ -1,6 +1,8 @@
 # Kindbot
 You can use this bots files i will add more features overtime!
+
 Also you can upload it to Heroku.com since i added procfile file.
+
 
 
 
